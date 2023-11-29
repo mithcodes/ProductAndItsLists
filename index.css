@@ -1,0 +1,31 @@
+*{
+    padding:0;
+    margin:0;
+
+}
+
+body{
+    background-color:#13262F;
+    color:white;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+
+}
+
+.container{
+    width:700px;
+    height: 200px;
+    background-color: #244359;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:200px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4); 
+    box-shadow: 3px 15px #414141 0.5;
+
+
+}
+h2{
+    margin-bottom: 30px;
+}
